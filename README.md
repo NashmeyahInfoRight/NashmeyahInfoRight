@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NashmeyahInfoRight
+- 👋 Hi, I’m @Nashmeyahalrekabi
 - 🌱 I’m currently learning AWS & MERN
 
 <!---
